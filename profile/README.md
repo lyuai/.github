@@ -1,23 +1,21 @@
 <div align="center">
 
-<img src="./csn-logo.png" width="180" alt="CSN.ai logo" >
+<img src="./lyu-logo.png" width="180" alt="LYU.ai logo" >
 
-# CSN.ai
+# LYU.ai
 
 ### From code to the physical world
 
-[![Website](https://img.shields.io/badge/Website-csn.ai-11182C?style=for-the-badge)](https://csn.ai)
-[![GitHub](https://img.shields.io/badge/GitHub-CSN--AI-11182C?style=for-the-badge&logo=github)](https://github.com/csn-ai)
+[![Website](https://img.shields.io/badge/Website-lyu.ai-11182C?style=for-the-badge)](https://lyu.ai)
+[![GitHub](https://img.shields.io/badge/GitHub-LYU--AI-11182C?style=for-the-badge&logo=github)](https://github.com/lyuai)
 
 ---
 
 </div>
 
-## 🤖 About CSN.ai
+## 🤖 About LYU.ai
 
-CSN.ai is an independent lab exploring AI coding and embodied intelligence. We build software agents that create, tools that amplify human work, and intelligent systems that can sense, communicate, move, and adapt in the physical world.
-
-The name carries a quiet reference to a code spark: a small experiment that can grow into intelligence in the physical world.
+LYU.ai is an independent personal lab exploring AI coding and embodied intelligence. I build software agents that create, tools that amplify human work, and intelligent systems that can sense, communicate, move, and adapt in the physical world.
 
 ## 🌟 Core Engineering Focus
 
