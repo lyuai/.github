@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="./niuio-logo.png" width="180" alt="Niu.io logo" >
+<img src="./csn-logo.png" width="180" alt="Code Spark Network logo" >
 
-# Niu.io
+# Code Spark Network
 
-### Engineering Embodied Intelligence
+### From code to the physical world
 
-[![Website](https://img.shields.io/badge/Website-niuio.github.io-11182C?style=for-the-badge)](https://niuio.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-Niu.io-11182C?style=for-the-badge&logo=github)](https://github.com/niuio)
+[![Website](https://img.shields.io/badge/Website-csn.ai-11182C?style=for-the-badge)](https://csn.ai)
+[![GitHub](https://img.shields.io/badge/GitHub-CSN--AI-11182C?style=for-the-badge&logo=github)](https://github.com/csn-ai)
 
 ---
 
 </div>
 
-## 🤖 About Niu.io
+## 🤖 About Code Spark Network
 
-Niu.io is an engineering-driven organization focused on transforming cutting-edge Embodied Intelligence research into practical, real-world solutions. We bridge the gap between academic breakthroughs and industrial applications through robust implementation of human–robot interaction, motion generation, and imitation learning technologies.
+Code Spark Network is an independent lab exploring AI coding and embodied intelligence. We build software agents that create, tools that amplify human work, and intelligent systems that can sense, communicate, move, and adapt in the physical world.
 
 ## 🌟 Core Engineering Focus
 
