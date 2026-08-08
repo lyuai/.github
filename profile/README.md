@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./csn-logo.png" width="180" alt="Code Spark Network logo" >
+<img src="./csn-logo.png" width="180" alt="CSN.ai logo" >
 
-# Code Spark Network
+# CSN.ai
 
 ### From code to the physical world
 
@@ -13,9 +13,11 @@
 
 </div>
 
-## 🤖 About Code Spark Network
+## 🤖 About CSN.ai
 
-Code Spark Network is an independent lab exploring AI coding and embodied intelligence. We build software agents that create, tools that amplify human work, and intelligent systems that can sense, communicate, move, and adapt in the physical world.
+CSN.ai is an independent lab exploring AI coding and embodied intelligence. We build software agents that create, tools that amplify human work, and intelligent systems that can sense, communicate, move, and adapt in the physical world.
+
+The name carries a quiet reference to a code spark: a small experiment that can grow into intelligence in the physical world.
 
 ## 🌟 Core Engineering Focus
 
